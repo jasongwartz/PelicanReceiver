@@ -1,0 +1,3 @@
+[submodule "receiver/PyEmailWatcher"]
+	path = receiver/PyEmailWatcher
+	url = https://github.com/jasongwartz/PyEmailWatcher
